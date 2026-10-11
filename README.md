@@ -26,7 +26,7 @@ An [OpenCode](https://github.com/sst/opencode) skill that turns any topic into a
 Clone to your OpenCode skills directory:
 
 ```bash
-git clone https://github.com/danzarchive/nextslide.git ~/.config/opencode/skills/nextslide
+git clone https://github.com/0xRafie/nextslide.git ~/.config/opencode/skills/nextslide
 ```
 
 OpenCode auto-detects skills from this directory. No additional configuration needed.
